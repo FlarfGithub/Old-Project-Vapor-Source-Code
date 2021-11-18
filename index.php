@@ -20,7 +20,7 @@ include 'global.php';
 <h3>Completly Public And Open Source!</h3>
 <p>Vapor is a free to join and public revival without bullshit.</p>
 <p>In order for everyone to enjoy the game just do not do dumb stuff please</p></div>
-<iframe src="https://www.youtube-nocookie.com/embed/Mvf9JCG2KaE" width="560" height="315" frameborder="0"></iframe>
+<iframe src="<?php echo YOUTUBETRAILERLINK;?>" width="560" height="315" frameborder="0"></iframe>
 </div>
 <style>
 .jumbotron {
