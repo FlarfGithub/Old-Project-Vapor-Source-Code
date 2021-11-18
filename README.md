@@ -3,7 +3,7 @@
 
 =================================
 
-About Contributing
+Contributors
 ---------------
 Thanks to these amazing people who contributed to the website:
 @all-contributors add
