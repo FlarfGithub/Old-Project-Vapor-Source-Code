@@ -2,6 +2,10 @@
 ![VaporLogo](https://github.com/FlarfGithub/Project-Vapor-Source-Code/blob/main/Website/img/logo.png?raw=true)
 
 =================================
+About Contributing
+---------------
+Thanks to these amazing people who contributed to the website:
+@all-contributors please add @<username> for <contributions>
 
 Notice!
 ---------------
