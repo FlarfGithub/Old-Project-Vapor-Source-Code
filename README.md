@@ -6,7 +6,9 @@
 Contributors
 ---------------
 Thanks to these amazing people who contributed to the website:
-@all-contributors add
+<a href="https://github.com/FlarfGithub/Project-Vapor-Source-Code/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FlarfGithub/Project-Vapor-Source-Code" />
+</a>
 
 Notice!
 ---------------
