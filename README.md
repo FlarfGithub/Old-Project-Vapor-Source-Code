@@ -6,7 +6,7 @@
 About Contributing
 ---------------
 Thanks to these amazing people who contributed to the website:
-@all-contributors please add @<username> for <contributions>
+@all-contributors add
 
 Notice!
 ---------------
