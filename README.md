@@ -15,3 +15,7 @@ Facts about Vapor
 ---------------
 The Source Code Of Project Vapor, free to use and secure!
 It is easy to set up and has settings so you can easily change the website's url, or icon, or currency name etc.
+
+About Contributing
+---------------
+If you did contribute to the source code and not in the discord server you can join here https://discord.gg/gRfWrhdzrg. If you already joined dm Flarf#0039 with proof of contribution and i will give you the contributor role.
